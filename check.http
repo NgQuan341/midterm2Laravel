@@ -1,0 +1,14 @@
+
+PUT http://localhost:8000/api/logup HTTP/1.1
+content-type: application/json
+
+{
+    "name":"nguyenquan",
+    "email":"nguyenquanshinobi@gmail.com",
+    "password":"1111",
+    "address":"dfđfdfd",
+    "phone":"11",
+    "repassword":"1111",
+    "id":1
+}
+
